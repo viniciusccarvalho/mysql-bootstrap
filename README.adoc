@@ -1,0 +1,2 @@
+===Running
+docker -e MYSQL_HOST=<your mysql host> -e MYSQL_PASSWORD=<your mysql password>
